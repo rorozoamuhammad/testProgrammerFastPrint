@@ -1,6 +1,6 @@
 # 📦 FastPrint Product Management System
 
-[![Laravel Version](https://img.shields.io/badge/Laravel-10.x-red.svg)](https://laravel.com)
+[![Laravel Version](https://img.shields.io/badge/Laravel-12.x-red.svg)](https://laravel.com)
 [![PHP Version](https://img.shields.io/badge/PHP-8.1%2B-blue.svg)](https://php.net)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57.svg)](https://www.sqlite.org/)
 [![Bootstrap 5](https://img.shields.io/badge/UI-Bootstrap%205-7952b3.svg)](https://getbootstrap.com)
